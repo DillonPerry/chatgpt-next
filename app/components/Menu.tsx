@@ -148,7 +148,7 @@ const MenuFooter = () => {
     >
       由{' '}
       <a className="text-gray-link" href="https://api.iwovo.cn/" target="_blank">
-        小浦 API
+        小浦 Api
       </a>{' '}
       驱动
     </div>
